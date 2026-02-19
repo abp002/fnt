@@ -173,7 +173,7 @@ export default function FNTProjectsPage() {
                 ))}
             </div>
             <MarqueeSection />
-            <CTASection text="The Studio commits to responding within 24 hours" />
+            <CTASection />
         </div>
     );
 }
